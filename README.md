@@ -1,6 +1,9 @@
 # react-native-ui-ux
 
-![react-native-ui-ux skill preview](https://res.cloudinary.com/dka0q8f82/image/upload/v1776888959/Screenshot_2026-04-23_at_02.10.33_tliuac.png)
+<p align="left">
+  <img src="https://res.cloudinary.com/dka0q8f82/image/upload/v1776888959/Screenshot_2026-04-23_at_02.10.33_tliuac.png" width="48%" />
+  <img src="https://res.cloudinary.com/dka0q8f82/image/upload/v1776919332/Screenshot_2026-04-23_at_10.41.55_soxnjv.png" width="48%" />
+</p>
 
 A Claude skill for building React Native UIs that don't look AI-generated.
 
